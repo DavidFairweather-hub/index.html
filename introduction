@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.dropbtn {
+          background-color:rgb(0,59,256);
+          color:rgb(256,256,256);
+          padding:16px;
+          font-size:16px;
+          border:none;
+          cursor:pointer;}
+.dropdown {
+            position:relative; 
+            display:inline-block;}
+.dropdown-content {
+           display:none;
+           position:absolute;
+           background-color:rgb(0,59,111);
+           min-width:100px;
+          }      
+.dropdown-content a{
+                     color:rgb(256,256,256);
+                     padding:16px 12px;
+                     text-decoartion:none;
+                     display:block;}
+ .dropdown-content a:hover {background-color:rgb(0,59,111);}
+ .dropdown:hover .dropbtn {background-color:rgb(0,0,0);}
+.navbar {
+         overflow:hidden;
+         background-color:rgb(0,0,0);
+         color:rgb(256,256,256);
+         position:fixed;
+         top:200;
+         width:100%;
+         cursor:pointer;
+         }
+.navbar a {
+           float:left;
+           display:block;
+           color:rgb(256,256,256);
+           text-align:center;
+           padding:14px 16px;
+           text-decoartion:none;
+           font-size:15px;
+           }
+.navbar a:hover
+               {
+                backgound-color:rgb(0,59,111);
+                color:rgb(256,256,256);}
+.main {
+       margin:16px;
+       margin-bottom: 30px;
+       }
+       
+a{
+  color:rgb(0,0,0) ; }
+a:hover
+      { 
+        background-color:rgb(0,59,111);
+        color:rgb(256,256,256);
+      }
+ .thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+} 
+      
+.div1 {
+     
+     float:left;
+     width:100px;
+     height:200px;
+   
+     
+     }
+ .div2 {
+        postion:fixed;
+        top:350px;
+        float:right;
+        width: 100px;
+        height:300px;
+      
+        }
+.div3 {
+        position:fixed;
+        border-radius:25px;
+        float:left;
+        background-color:rgb(256,256,256);
+        width:715px;
+        top:250px;
+        
+        height:5000px;
+      
+        }
+               
+    body{ 
+         background-color:rgb(0,59,111);
+         } 
+        
+ul{
+     
+     list-style-type:none;
+     margin:10;
+     padding:7;
+   }
+
+div.header
+           { 
+             right:40;
+           }
+h1 {
+    border-radius:15px;
+    background-color:rgb(0,200,111);
+   
+    font-size:40px;
+   
+    }
+    
+    
+h2 {
+     border-radius:10px;
+     background-color:rgb(0,200,111);
+   
+    font-size:20px;
+    }
+h3 {
+     border-radius:5px; 
+     background-color:rgb(0,200,111);
+     font-size:20px;
+     }
+p {
+   
+    color:rgb(200,200,200);
+    margin-left:50px;
+    margin-right:50px;
+    top-margin:100px;
+    display:inline;
+}    
+p2 {
+    
+     margin:0px
+    
+    } 
+p3 {
+     color:rgb(0,9,0);
+     background-color:rgb(256,256,256);
+     }
+    
+</style>
+</head>
+<body>
+
+<h1>David L P Fairweather</h1>
+
+<h3>Into the Cosmos</h3>
+<div class="div1">
+
+
+<div class="navbar">
+  <div class="dropdown">
+  <button class="dropbtn">Introduction</button>
+   <div class="dropdown-content">
+   <a href="https://wordpress.com/view/davidsuniverse.wordpress.com">Introduction</a>
+  </div>
+  </div>
+  
+   <a href="https://wordpress.com/">Electric Universe</a>
+   <a href="">Robitaille aka Sky Scholar</a>
+   <a href="">Flat Earth</a>
+   <a href="">Pictures</a>
+   <a href="">Books</a>
+   <a href="">Podcasts</a>
+   <a href="">Videos</a>
+   <a href="">Movies</a>
+   <a href="">Resources</a>
+   <a href="">Adventures</a>
+  </div>
+  
+</div>  
+<div class="div2">
+  <img src="https://imgs.xkcd.com/comics/astrophysics.png" class="thumbnail" width=180px height=90px>
+ 
+<p2> https://imgs.xkcd.com/comics/astrophysics.png</p2> 
+<h2>About</h2> 
+<p3>My interest of course is the search for life elsewhere,  scientific skepticism, computers, gardening, video games and a few other areas. This website will be mostly about these topics.</p3>
+</div>
+<div class="div3">
+
+<h1>Introduction</h1>
+<br/>
+<br/>
+ 
+<br/><br/>
+<p3> Hi mt name is Dave and this my website an its name is __________. I work at __________ as a web assistant basically working on websites, maintaining websites and some mobile development. On this website there are articles dealing with the electric universe, Flat Earth, general skeptical things, some astronomy this not intended as a daily astronomy site there are other places like bad astronomy and Universe today.</p3>
+<br/><br/>
+
+<p3> My chief research interest include SETI (the Search for Extraterrestrial Intelligence) looking for Earths or large moons that could support life, looking things in the Kuiper belt?. Other topics of interest  is gardening, some photography, taking walks and strategy games. My route here is not a typical one or one recommended. I tried a couple of times to get a degree but had some troubles. Eventually while working at a call center I started following Phil Plait on his blog and starting me debating electric universe proponents. That eventually led me to my own blog and twitter account. Eventually got some notice which led me here.   </p3>
+<br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1uS5b8aQ6z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><br/>
+
+<p3>What makes people go into astronomy, astrophysics or physics. Well some get interested because they have a great teacher, some read a great book, have an in experience that inspired them or get interested from a TV show. I don't know when or what got me interested in space but it was from an early age because as a kid there puzzles that had a space theme such as the movie Black hole and Star Trek, plus one of my favourite shows was Voltron: Defender of the Universe. Plus my grandfather liked PBS for a number of reasons one of which it had the strongest signal in the area because of where the transmitters where located. So there was a lot of Nova, Nature, Scientific American shows watched. </p3>
+<br/><br/>
+
+<p3>Why study astronomy, astrophysics and physics. First of it is cool just like bow ties. Well you get to investigate things at the very extreme of existence such sub-atomic particles, dimensions so small that can't be measured yet, things more on our scale like molecules, better engines for cars, aerodynamics and space travel, to the really large such stars, planets, galaxies and the universe itself. Astronomy probably was one of the first disciplines that came about because in the past it was fairly useful in helping navigating and helping scheduling when crops were to planted and when some religious observations were to be taken place. Some holidays such as Passover in the Jewish world is determined by the first full moon after the Vernal equinox and Easter for Christians comes the next Sunday after Passover. The Aztecs realized  that Venus could be in the morning and the evening.  But in studying astronomy you are studying a long tradition of studying the nights sky that helped mankind survive in the past and will help plot the course of how humans and their successors will survive the future. </p3>
+<br/><br/>
+<p3>My route in astronomy has not been exactly a standard path. On my way I stumbled onto Phil Plait's Bad Astronomy by reading an article written about him. Then led me to his blog and then into the skeptical movement, eventually listening to podcasts like <a href=”https://www.theskepticsguide.org/ ”>The Skeptics Guide to the Galaxy</a>, <a href=”http://www.skepticzone.tv/ ”>The Skeptic Zone</a>, <a href=”http://www.astronomycast.com/ ”>Astronomy Cast</a> and many more. I knew about who thought we never went to the moon, my grandmother was one, but other alternate theories came up such the electric universe, anti vaxxers and the Flat Earth. Yes there are people out there who think that the Earth is flat in this day and age. Some think these people think that these people are pretending either making fun of the people who believe or just doing this to practice arguing things. If they are doing to make fun of others or profit from others by misleading them they should be stopped, even if it just done to practice arguing they also should stop because there are some that actually believe this stuff. You will notice to the side there is a menu of different pseudo-science and other areas of interest of mine. </p3>
+
+
+</div>
+
+
+
+
+</body>
+</html>
