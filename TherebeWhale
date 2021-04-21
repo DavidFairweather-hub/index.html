@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ .thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+} 
+a{
+  color:rgb(200,200,200)  }
+a:hover
+      { 
+        color:rgb(200,200,0);
+      }
+.div1 {
+     background-color:rgb(0,120,120);
+     float:left;
+     width:100px;
+     height:200px;
+   
+     
+     }
+ .div2 {
+         
+        float:right;
+        width: 100px;
+        height:60px;
+      
+        }
+.div3 {
+        float:left;
+        background-color:rgb(0,59,111);
+        width:715px;
+        
+        height:2000px;
+      
+        }
+               
+    body{ 
+         background-image:url("https://c1.staticflickr.com/8/7173/6771408967_3d7902fdff_b.jpg" ); 
+         background-repeat:repeat;
+         
+        
+        
+        
+        } 
+        
+ul {
+
+     list-style-type:none;
+     margin:10;
+     padding:7;
+   }
+
+div.header
+           { 
+             right:40;
+           }
+h1 {
+  
+    background-color:rgb(0,200,111);
+   
+    font-size:40px;
+   
+    }
+    
+    
+h2 {
+     background-color:rgb(0,200,111);
+   
+    font-size:20px;
+    }
+h3 {
+     background-color:rgb(0,200,111);
+     font-size:20px;
+     }
+p {
+   
+    color:rgb(200,200,200);
+    margin-left:50px;
+    margin-right:50px;
+    top-margin:100px;
+    display:inline;
+}    
+p2 {
+    
+     margin:0px
+    
+    } 
+p3 {
+     color:rgb(200,200,200);
+     background-color:rgb(0,59,111);
+     }
+    
+</style>
+</head>
+<body>
+<div class="header">
+<h1>David L P Fairweather</h1>
+
+<h3>From the Wilderness into the Cosmos</h3> 
+</div>
+<div class="div1">
+<ul>
+
+<li><a href="https://davidsuniverse.wordpress.com/about/">Home</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/contact">Essays</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/contact">Stories</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/contact">Gallery</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2016/05/">Podcasts</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2017/03/07/some-deer/">Videos</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2009/04/">Contact</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2009/05/">Resume</a></li>
+
+</ul>
+</div>
+<div class="div2">
+  <img src="https://imgs.xkcd.com/comics/astrophysics.png" class="thumbnail" width=180px height=90px>
+ 
+<p2> https://imgs.xkcd.com/comics/astrophysics.png</p2> 
+<h2>About</h2> 
+<p3>My interest of course is the search for life elsewhere,  scientific skepticism, computers, gardening, video games and a few other areas. This website will be mostly about these topics.</p3>
+</div>
+<div class="div3">
+
+<h3>Admiral There be Whales</h3>
+<p>First thing of course something from Star Trek IV: The Voyage Home, the one with the whales.</p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/4CM8tTG9Yig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p >First thing we travelled down from St Stephen to St Andrews NB down the route 127. On the way down it was so foggy that you couldn't see the top of Chamcook Mountain or the St. Croix Island (a failed french colony in 1603). Once we got down to St Andrews and got a parking spot. St Andrews is a town that depends heavily of tourist activities so it can busy place on the weekend. There are several whale watching tours in the area, one is on a sailing vessel, a couple use zodiac type of boats and the other two are boats that have an enclosed  lower deck and an upper deck. The one we went on had an open upper deck. We went on this tour because well my sister and brother in law(BIL) were working for them. The route for the tour went out around Deer Island and then between Deer Island and Campobello island. For the the first part of the tour I went to the upper deck.</p>
+<br/>
+<br/>
+https://twitter.com/BackroadAstro/status/1023369275858477056 
+https://twitter.com/BackroadAstro/status/1023369275858477056
+
+
+<br/>
+<br/> 
+<p>One the out around the first island we saw a bald eagle right before we came to salmon cages. Another industry in the area is aquaculture with cages throughout the Bay of Fundy and Passamaquoddy  Bay and my sister and BIL work during the week for of the companies that do this. One the way to the area we would find the whales we saw a few porpoises behind the boat. As we got closer to where it opened to the Bay of Fundy we started to see whales first was minke whale, minkes are smaller then the other whale we saw which was the Humpback whale. Minkes grow from are usually 6-8 meters long and sometimes to about 10m also the can be as massive as 4-4.5 tons. Minkes when the dive just show their dorsal side and do not show there tails. The way to identify them is markings on the their dorsal tail. The one we saw on this day was one called slice because most of the tail was sliced off or did not develop in the first place. After a few sightings of   slice we moved on to where the other boats were. Then we saw the first sighting of V the humpback whale. It made a couple of arcs above the water and then made his terminal dive for several minutes. On his way down he showed his tail and this how you identify the whale. V has a notch out of his tail so this how it gots it name. Humpbacks are longer and get up to 12 meters long and much more massive. Then someone notice V over by  the cliffs on Campobello Island and few blows out of the blowhole. Then I went downstairs because my seasickness kicked in. Then V showed up one more time between us and another boat maybe 100-130 m apart, and made another terminal dive. </p>
+<br/>
+<br/>
+https://twitter.com/BackroadAstro/status/1023321917275684866
+<br/>
+<br/>
+<p>After this we went out to a couple of islands as the BIL said they were running out of names for the islands so one that was covered with spruce trees was called spruce island and the other sandy island. Then we went to a fishing weir which is an old style of fishing herring. The herring go into a chute and goes into the weir and swim around in the weir until there are enough fish. In the past they call a local company to come in and suck them up to made into sardines and other snacks. Now the herring caught this way are used for bait for lobster fishing.  Also on spruce island there was another bold eagle (I swear the BIL and the eagle have the same eyesight), Then we went around Deer Island, we encountered the ferry to the island. We travelled beside it for a while then went behind passed over it wake and passed the ferry. As we were approaching St. Andrews some smoked salmon pate was served I declined because my stomach was doing flip flops, then some ice tea which helped. Then on wards back to the dock.  </p>
+<br/>
+<br/>
+https://twitter.com/BackroadAstro/status/1023355002029568005
+<br/>
+<br/>
+<p>This is one 3 hour tour that you will enjoy. A few side notes there is a tidal bore which is the second biggest whirlpool but only really appears during flood tides and we were going out just after high tide, so if you want to see that find out the tide schedule. Also a pair of binoculars would be good plus if you are going to invest in a new camera, get before you go out. Also if you need to take some motion sickness medicine before hand, also hold off on the upper deck until when you start to see whales.</p>
+</div>
+</body>
+
+</html>-
