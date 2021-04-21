@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.navbar {
+         overflow:hidden;
+         background-color:rgb(0,59,111);
+         postion:fixed;
+         bottom:0;
+         width:100%;
+         }
+.navbar a {
+        float:left;
+        display:block;
+        color:rgb(256,256,256);
+        text-align: center;
+        padding:14px 16px;
+        text-decoaration:none;
+        font-size:17px;
+        }
+.navbar a:hover {
+             background-color:rgb(0,200,111);
+             color:white;
+             }
+.main {
+       margin:16px;
+       margin-bottom: 30px;
+       }
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+} 
+a{
+  color:rgb(200,200,200)  }
+a:hover
+      { 
+        color:rgb(200,200,0);
+      }
+body {
+      background-color:rgb(0,59,111);
+      height:2000px;
+     
+}
+div.gallery {
+     position:absolute;
+     left: 60px;
+  }
+div.gallery2{
+          position:absolute;
+          left:240px;
+          }
+div.gallery3{
+             position:absolute;
+             left:420px;
+             }
+div.gallery4{
+            position:absolute;
+            left:600px;
+   }
+ div.gallery img {
+      width:150px;
+      height:100px;
+}
+.div1 {
+     background-color:rgb(0,120,120);
+     float:left;
+     width:120px;
+     height:200px;
+   
+     
+     }
+     
+ .div4 {
+        position:absolute;
+        width:840px;
+        height:150px;
+        
+        left:120px;
+        top:190px;
+        background-color:rgb(0,59,111);
+ }
+ .div5 {
+        position:absolute;
+        width:840px;
+        height:150px;
+           
+        left:120px;
+        top:340px;
+        background-color:rgb(0,59,111);
+ }
+ 
+ .div6 {
+        position:absolute;
+        width:840px;
+        height:150px;
+         
+        left:120px;
+        top:490px;
+        background-color:rgb(0,59,111);
+        
+ }
+ 
+ .div7{
+       position:absolute;
+       width:840px;
+       height:150px;
+       left:120px;
+       top:800x;
+       background-color:rgb(0,59,111);
+       
+       
+       }
+ .div8{
+       postion:absolute;
+       width:840px;
+       height:150px;
+       left:50px;
+       top:1000px;
+       background-color:rgb(0,59,111);
+       }
+ .div2 {
+        top:300px; 
+        float:right;
+        width: 100px;
+        height:200px;
+      
+        }
+
+div.desc {        
+        
+           color:rgb(200,200,200);
+           text-align:center;
+           }
+      
+        
+ul {
+
+     list-style-type:none;
+     margin:10;
+     padding:7;
+   }
+
+div.header
+           { 
+             right:40;
+           }
+h1 {
+  
+    background-color:rgb(0,200,111);
+    border-radius:25px;
+    font-size:40;
+   
+    }
+    
+    
+h2 {
+     background-color:rgb(0,200,111);
+   border-radius:25px;
+    font-size:10;
+    }
+h3
+   {
+     background-color:rgb(0,200,111);
+     font-size:20 }
+
+p2 {
+    
+     margin:0px
+    
+    } 
+p3 {
+     color:rgb(200,200,200);
+     background-color:rgb(0,59,111);
+     }
+    
+</style>
+</head>
+<body>
+<div class="header">
+<h1> David L P Fairweather</h1>
+<h2> Into the Cosmos</h2>
+</div>
+<div class="div1">
+<u1>
+<div class="navbar">
+   <a href="">Introduction</a>
+   <a href="https://wordpress.com/">Electric Universe</a>
+   <a href="">Robitaille</a>
+   <a href="">Flat Earth</a>
+   <a href="">Pictures</a>
+   <a href="">Books</a>
+   <a href="">Podcasts</a>
+   <a href="">Videos</a>
+  </div>
+  </u1>
+</div>
+
+<div class="div2">
+  <img src="https://imgs.xkcd.com/comics/astrophysics.png" class="thumbnail" width=180px height=90px>
+ 
+<p2> https://imgs.xkcd.com/comics/astrophysics.png</p2> 
+<h2>About</h2> 
+<p3>My interest of course is the search for life elsewhere,  scientific skepticism, computers, gardening, video games and a few other areas. This website will be mostly about these topics.</p3>
+
+</div>
+
+
+    <h1> A Few Pictures I've Taken</h1>
+<div class="div4">    
+  <div class="gallery"> 
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0852141.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0852141.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>
+<div class="desc" >An apple tree with<br/>
+                   some snow on it</div>   
+   </div>
+
+   <div class="gallery2">
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0853511.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0853511.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>   
+   <div class="desc" >A hedge of cherry trees</div>   
+   </div>    
+   <div class="gallery3">
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0850481.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0850481.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>   
+   <div class="desc" >The tilted pair tree</div>   
+   </div>    
+   <div class="gallery4">
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0850421.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2018/03/20180310_0850421.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>   
+   <div class="desc" >A wider view </div>   
+   </div>    
+</div>
+   <div class="div5">
+      <div class="gallery"> 
+      <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2018/03/20180227_1553191.jpg">
+      <img src="https://davidsuniverse.files.wordpress.com/2018/03/20180227_1553191.jpg" class="thumbnail" width="150px" height="100px" >
+      </a>
+      <div class="desc" >A picture of the<br/> thawing. </div>   
+      </div>
+
+      <div class="gallery2">
+      <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2018/03/20180227_1603471.jpg">
+       <img src="https://davidsuniverse.files.wordpress.com/2018/03/20180227_1603471.jpg" class="thumbnail" width="150px" height="100px" >
+       </a>   
+      <div class="desc" >A picture of a <br/>path</div>    
+      </div>    
+     <div class="gallery3">
+      <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2017/11/20171031_102609.jpg">
+      <img src="https://davidsuniverse.files.wordpress.com/2017/11/20171031_102609.jpg" class="thumbnail" width="150px" height="100px" >
+      </a>   
+      <div class="desc" >The underneath of a<br/> nest</div>   
+      </div>    
+      <div class="gallery4">
+      <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2017/11/20171029_1502531.jpg">
+       <img src="https://davidsuniverse.files.wordpress.com/2017/11/20171029_1502531.jpg" class="thumbnail" width="150px" height="100px" >
+      </a>   
+      <div class="desc" >The backroad of the<br/>property</div>   
+      </div>
+</div>
+<div class="div6">    
+  <div class="gallery"> 
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2017/11/20171031_142332.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2017/11/20171031_142332.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>
+<div class="desc" >Another path</div>   
+   </div>
+
+   <div class="gallery2">
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2017/11/20171124_1525291.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2017/11/20171124_1525291.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>   
+   <div class="desc" >Lava lamp</div>   
+   </div>    
+   <div class="gallery3">
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2017/11/20171124_1525271.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2017/11/20171124_1525271.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>   
+   <div class="desc" >Another Lava lamp</div>   
+   </div>    
+   <div class="gallery4">
+   <a target="_blank" href="https://davidsuniverse.files.wordpress.com/2017/11/20171029_151232.jpg">
+   <img src="https://davidsuniverse.files.wordpress.com/2017/11/20171029_151232.jpg" class="thumbnail" width="150px" height="100px" >
+   </a>   
+   <div class="desc" >Yet another path</div>   
+   </div>    
+</div>
+
+
+
+
+
+
+</body>
+</html>
