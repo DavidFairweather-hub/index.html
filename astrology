@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ .thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+} 
+a{
+  color:rgb(200,200,200)  }
+a:hover
+      { 
+        color:rgb(200,200,0);
+      }
+.div1 {
+     background-color:rgb(0,120,120);
+     float:left;
+     width:100px;
+     height:200px;
+   
+     
+     }
+ .div2 {
+         
+        float:right;
+        width: 100px;
+        height:60px;
+      
+        }
+.div3 {
+        float:left;
+        background-color:rgb(0,59,111);
+        width:715px;
+        
+        height:3000px;
+      
+        }
+               
+    body{ 
+         background-image:url("https://c1.staticflickr.com/8/7173/6771408967_3d7902fdff_b.jpg" ); 
+         background-repeat:repeat;
+         
+        
+        
+        
+        } 
+        
+ul {
+
+     list-style-type:none;
+     margin:10;
+     padding:7;
+   }
+
+div.header
+           { 
+             right:40;
+           }
+h1 {
+  
+    background-color:rgb(0,200,111);
+   
+    font-size:40px;
+   
+    }
+    
+    
+h2 {
+     background-color:rgb(0,200,111);
+   
+    font-size:30px;
+    }
+h3 {
+     background-color:rgb(0,200,111);
+     font-size:20px;
+     }
+p {
+   
+    color:rgb(200,200,200);
+    margin-left:50px;
+    margin-right:50px;
+    top-margin:100px;
+    display:inline;
+}    
+p2 {
+    
+     margin:0px
+    
+    } 
+p3 {
+     color:rgb(200,200,200);
+     background-color:rgb(0,59,111);
+     }
+    
+</style>
+</head>
+<body>
+<div class="header">
+<h1>David L P Fairweather</h1>
+
+<h3>The Backroad Astronomer</h3> 
+</div>
+<div class="div1">
+<ul>
+
+<li><a href="https://davidsuniverse.wordpress.com/about/">Resume</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/contact-me-marie/">Contact</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2016/05/">Podcasts</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2017/03/07/some-deer/">Videos</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2009/04/">Gallery</a></li>
+<li><a href="https://davidsuniverse.wordpress.com/2009/05/">Links</a></li>
+<li> <a href="https://twitter.com/?lang=en">Twitter</a></li>
+<li><a href="">Facebook</a></li>
+<u1>
+</div>
+<div class="div2">
+  <img src="https://imgs.xkcd.com/comics/astrophysics.png" class="thumbnail" width=180px height=90px>
+ 
+<p2> https://imgs.xkcd.com/comics/astrophysics.png</p2> 
+<h2>About</h2> 
+<p3>My interest of course is the search for life elsewhere,  scientific skepticism, computers, gardening, video games and a few other areas. This website will be mostly about these topics.</p3>
+</div>
+<div class="div3">
+<h2>Another Tool for Planet Hunting</h2>
+<br/>
+<br/>
+<p3>One of the first steps in finding life outside of the solar system is to find a planet that life can call home. There have about 2000 planets found around other stars, some these are much larger of Jupiter and a few are the size asteroids. Location is also important because life on Earth needs liquid water, so astronomers assume the best places for life is were liquid water would exist. These areas around a star are called habitable zones. To find these planets there are two methods one is staring at a star hoping a planet passes in front of it, the Kepler space telescope was designed just to do this. The other method is the Doppler method, when a star is pulled away from you the light becomes redder and when the star approaches you the light appears bluer.</p3>
+<br/>
+<br/>
+<p3>A new tool for finding these planets has been contracted by NASA to go on the WIYN 3.5 m telescope at Kitt Peak in Arizona. The NEID spectrograph, the name derive from the Tohona O’ordham tribes word for to visualize or discover, Kitt Peak resides on their land. The spectrograph was designed and being built by Penn State university.</p3>
+<br/>
+<br/>
+<h2>Talking about exploding Stars</h2>
+<p3>For the first time astronomers have seen a star explode or go supernova. There are two different types of supernova. The first type is when material from the atmosphere of one star is drawn onto the surface of an orbit white Dwarf and after too much material lands on its surface it explodes. The second type is when at the end of a large stars life and runs out of material to burn it explodes.The stars that were caught in this very rapid process were 300 times the size of the sun at a distance of 700 million light years away and the other was 500 times the sun and 1.2 billion light years away. They were caught by the Kepler Space telescope, it was designed to look at a small patch of sky to see planets moving in front of the stars. Peter Garnavich and his team took advantage of this constant staring at the same patch of sky. In the field of view there were 500 galaxies with 50 trillion stars in them.</p3>
+<br/>
+<br/>
+<h2>Dwarf Galaxies Might Explain Large Atoms</h2>
+<p3>Where did all that gold that all those gold miners come from. The lightest of elements come were formed during the Big Bang. The elements up to iron were made in the cores of stars. Even the most massive of stars so not have enough gravitational energy to squeeze more protons into the nucleus of the atom to create more massive elements. These heavier atoms are created by neutron capture, after the nucleus absorbs the neutron it decays into a proton, electron/positron and a neutrino.One way this could happen is the supernova explosion of the larger stars the neutron capture. Another way is when two neutron stars collide. Neutron stars are the cores of much larger stars that lost there outer atmospheres after burning their nuclear fuel and are mostly made of neutrons, The evidence supporting this has come from an ancient faint galaxy orbiting our own called Reticulum II.</p3>
+<br/>
+<br/>
+<h2> New Evidence in How Planets are Formed </h2>
+<p3>For over 20 years people have discovering fully formed planets around other stars. Now in a proto-planetary disk around star HL tau some 450 lightyears away and only 1 million years old, there has been found what maybe the early stages of planetary formation. The Karl G. Jansky VLA telescope has found a 3 to 8 Earth mass clump  This was done in the radio part of the electromagnetic spectrum. because shorter wavelengths like visible light is scattered by the dust in this giant dust cloud and radio waves just goes around the dust. This might help in the understanding how planets are formed and how solar systems evolve over time.</p3>
+
+
+
+
+</body>
+
+</html>
